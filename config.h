@@ -24,4 +24,9 @@
 #undef LEADER_TIMEOUT
 #define LEADER_TIMEOUT 1000
 
+#undef STENO_LAYER
+#define STENO_LAYER false
+#undef HUNGARIAN_LAYER
+#define HUNGARIAN_LAYER false
+
 #endif
