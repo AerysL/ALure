@@ -15,9 +15,8 @@ This is an unconventional layout for the [ErgoDox Infinity][Infinity]. For more 
 
 ## Table of Contents
 
-* [Layouts](#layouts)
+* [Layer](#layers)
     - [Base layer](#base-layer)
-    - [LED states](#led-states)
 * [Tools](#tools)
     - [Heatmap](#heatmap)
     - [Layer notification](#layer-notification)
@@ -25,10 +24,10 @@ This is an unconventional layout for the [ErgoDox Infinity][Infinity]. For more 
     - [Unicode Symbol Input](#unicode-symbol-input)
 * [Building](#building)
     - [Using on Windows](#using-on-windows)
-* [Changelog](https://github.com/algernon/ergodox-layout/blob/master/NEWS.md#readme)
+* [Changelog](https://github.com/aersyl/ALure/blob/master/NEWS.md#readme)
 * [License](#license)
 
-# Layouts
+# layers
 
 ## Base layer
 
