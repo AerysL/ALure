@@ -28,5 +28,7 @@
 #define STENO_LAYER false
 #undef HUNGARIAN_LAYER
 #define HUNGARIAN_LAYER false
+#undef ADORE_LAYER
+#define ADORE_LAYER false
 
 #endif
